@@ -3,7 +3,7 @@
 This is a prototype that I'm currently developing in my scientific initiation. Its purpose is to place data stations from multiple climate agencies (such as ANA, SUDENE etc) on a GeoTIFF image using RasterIO library, and then extract its precipitation data to a .csv file using their geographic coordinates. Then, I plan to make an exploratory analysis of that data.
 
 ### Current progress
-1. Acquire .TIF images. [:white_check_mark:]
+1. Acquire GeoTIFF images. [:white_check_mark:]
 2. Create a feature to allow the script to obtain data from multiple stations without having to run it again for each station (it's the standard behavior of _hydrobr_ library) [:white_check_mark:]
 3. Create a Gantt chart to display the data availability for each selected station. [:white_check_mark:]
 4. Display the selected stations together with the GeoTIFF image. [:white_check_mark:]
@@ -13,7 +13,7 @@ This is a prototype that I'm currently developing in my scientific initiation. I
 
 ## Installation
 
-It's expected to use [Google Colab](https://colab.research.google.com/) to run both scripts, since
+It's expected to use [Google Colab](https://colab.research.google.com/) to run the script, since
 
 a) a local installation would require installing another package manager besides [pip](https://pip.pypa.io/en/stable/);
 
