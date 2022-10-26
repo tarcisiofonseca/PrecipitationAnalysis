@@ -66,13 +66,10 @@ By now, you can get a raster image displaying the data stations from the selecte
 
 ###### All data stations from the state of Bahia. The GeoTIFF image used was the same shown on the "Usage" section.
 <br>
-<br>
 
 ![Mucuri data availability (codes)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394 "Mucuri data availability (codes)")
 
 ###### Availability of each data station from "Mucuri" (displaying their codes).
-
-<br>
 <br>
 
 ![Mucuri data availability (names)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394 "Mucuri data availability (names)")
