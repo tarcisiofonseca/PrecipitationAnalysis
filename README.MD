@@ -4,7 +4,7 @@ This is a prototype that I'm currently developing in my scientific initiation. I
 
 ### Current progress
 1. Acquire GeoTIFF images. [:white_check_mark:]
-2. Create a feature to allow the script to obtain data from multiple stations without having to run it again for each station (it's the standard behavior of _hydrobr_ library) [:white_check_mark:]
+2. Create a feature to allow the script to obtain data from multiple stations without having to run it again for each city (it's the standard behavior of _hydrobr_ library) [:white_check_mark:]
 3. Create a Gantt chart to display the data availability for each selected station. [:white_check_mark:]
 4. Display the selected stations together with the GeoTIFF image. [:white_check_mark:]
 5. Iterate the last step over each .TIF image available. [ ]
