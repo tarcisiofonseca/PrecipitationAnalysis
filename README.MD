@@ -1,6 +1,6 @@
 # Precipitation data extractor
 
-This is a prototype that I'm currently developing in my scientific initiation. Its purpose is to place data stations from multiple climate agencies (such as ANA, SUDENE etc) on a GeoTIFF image using RasterIO library, and then extract its precipitation data to a .csv file using their geographic coordinates. Then, I plan to make an exploratory analysis of that data.
+This is a prototype that I'm currently developing in my scientific initiation. Its purpose is to place data stations from multiple climate agencies (such as ANA, SUDENE etc) on a GeoTIFF image using RasterIO library, and then extract its precipitation data to a .csv file using their geographic coordinates.
 
 ### Current progress
 1. Acquire GeoTIFF images. [:white_check_mark:]
@@ -9,7 +9,6 @@ This is a prototype that I'm currently developing in my scientific initiation. I
 4. Display the selected stations together with the GeoTIFF image. [:white_check_mark:]
 5. Iterate the last step over each .TIF image available. [ ]
 6. Extract the rainfall data for each station from all images generated in the previous step to a .csv file. [ ]
-7. Conduct an exploratory analysis of the data obtained (to be further detailed in subsequent steps). [ ]
 
 ## Installation
 
