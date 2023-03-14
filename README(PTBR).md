@@ -47,30 +47,30 @@ Coloque todas as imagens na mesma pasta.
 
 ### Parâmetros
 
-**city_list** = Choose the cities to analyse, writing their names inside quotation marks and separating each one with commas. Leave the list empty to get all cities from the select state below.
+**municipios_lista** = Escolha os municípios que deseja analisar, escrevendo seus nomes dentro de aspas e os separando com vírgulas. Também é possível deixar a lista vazia para selecionar todos os municípios do estado abaixo.
 
-**state** = Choose the state that contains the selected cities. The script supports only one state per time due to how much time would take to extract that amount of data.
+**estado** = Escolha o o estado que contém os municípios escolhidos acima. O script suporta apenas um estado por vez.
 
-**raster** = Type your images' path inside quotation marks. Currently, it's supporting just one image each time, so type one image's name too.
+**raster** = Insira o caminho do diretório de suas imagens GeoTiff. No momento, apenas uma imagem é suportada por vez, então insira o nome da imagem também.
 
-**data** = The second argument should be **0** or **1**. Select 0 for displaying the station names on the Gantt chart, or 1 for displaying their codes.
+**dados** = O segundo argumento deve ser **0** ou **1**. Selecione 0 para exibir o nome das estações no diagrama Gantt ou 1 para exibir os seus códigos.
 
 
-## Current results
+## Resultados atuais
 
-By now, you can get a raster image displaying the data stations from the selected cities and the GeoTIFF image used.
+No momento, é possível obter uma imagem raster que exibe as estações de coleta de cada um dos municípios selecionados sobre a imagem GeoTIFF.
 <br>
 
-![Data stations of Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?width=412&height=427 "Data stations of Bahia")
+![Estações de coleta da Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?width=412&height=427 "Estações de coleta da Bahia")
 
-###### All data stations from the state of Bahia. The GeoTIFF image used was the same shown on the "Usage" section.
+###### Todas as estações da Bahia. A imagem GeoTIFF usada é a mesma presente na sessão "Uso".
 <br>
 
-![Mucuri data availability (codes)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394 "Mucuri data availability (codes)")
+![Disponibilidade de dados de Mucuri (códigos)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394 "Disponibilidade de dados de Mucuri (códigos)")
 
-###### Availability of each data station from "Mucuri" (displaying their codes).
+###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus códigos).
 <br>
 
-![Mucuri data availability (names)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394 "Mucuri data availability (names)")
+![Disponibilidade de dados de Mucuri (nomes)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394 "Disponibilidade de dados de Mucuri (nomes)")
 
-###### Availability of each data station from "Mucuri" (displaying their names).
+###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus nomes).
