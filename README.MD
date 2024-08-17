@@ -38,7 +38,7 @@ conda install geopandas
 ## Usage
 Firstly, you need a GeoTIFF image so the data can be extracted. Images of that type may be obtained from [ClimateSERV](https://climateserv.servirglobal.net/map). 
 
-![Rainfall image](https://media.discordapp.net/attachments/345357344978501642/1034642130485911562/z.jpg "Rainfall image")
+![Rainfall image](https://cdn.discordapp.com/attachments/345357344978501642/1034642130485911562/z.jpg? "Rainfall image")
 
 ###### Rainfall GeoTIFF image obtained via ClimateSERV, from UCSB CHIRPS database. 
 
