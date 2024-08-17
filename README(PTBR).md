@@ -71,6 +71,5 @@ No momento, é possível obter uma imagem raster que exibe as estações de cole
 ###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus códigos).
 <br>
 
-![Disponibilidade de dados de Mucuri (nomes)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?ex=66c1faa1&is=66c0a921&hm=ac79de0c70a1bf55e313eece7b2b93a20d593088fb00558cfad3df0787ad8e7a&=&format=webp&quality=lossless&width=1440&height=553) "Disponibilidade de dados de Mucuri (nomes)")
-
+![Disponibilidade de dados de Mucuri (nomes)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?ex=66c1faa1&is=66c0a921&hm=ac79de0c70a1bf55e313eece7b2b93a20d593088fb00558cfad3df0787ad8e7a&=&format=webp&quality=lossless&width=1440&height=553)
 ###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus nomes).
