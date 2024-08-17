@@ -38,7 +38,7 @@ conda install geopandas
 ## Uso
 Inicialmente, você precisa de uma imagem GeoTIFF para que seja feita a extração dos dados. Esse tipo de imagem pode ser obtida pelo [ClimateSERV](https://climateserv.servirglobal.net/map). 
 
-![Rainfall image](https://media.discordapp.net/attachments/345357344978501642/1034642130485911562/z.jpg "Rainfall image")
+![Rainfall image]([https://media.discordapp.net/attachments/345357344978501642/1034642130485911562/z.jpg](https://cdn.discordapp.com/attachments/345357344978501642/1034642130485911562/z.jpg?ex=66c1f952&is=66c0a7d2&hm=964628c9d987b72dfc8fe7be7fb173ce10ae8a300a8f5193f2549bf94cb3d36d&) "Rainfall image")
 
 ###### Imagem de precipitação GeoTIFF obtida no ClimateSERV, do banco de dados UCSB CHIRPS. 
 
@@ -61,16 +61,16 @@ Coloque todas as imagens na mesma pasta.
 No momento, é possível obter uma imagem raster que exibe as estações de coleta de cada um dos municípios selecionados sobre a imagem GeoTIFF.
 <br>
 
-![Estações de coleta da Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?width=412&height=427 "Estações de coleta da Bahia")
+![Estações de coleta da Bahia]([https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?width=412&height=427](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?ex=66c1faa6&is=66c0a926&hm=178f4fc2072508d79f2797cb4bdd63f691a76642a301760d4244459761480756&=&format=webp&quality=lossless&width=562&height=582) "Estações de coleta da Bahia")
 
 ###### Todas as estações da Bahia. A imagem GeoTIFF usada é a mesma presente na sessão "Uso".
 <br>
 
-![Disponibilidade de dados de Mucuri (códigos)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394 "Disponibilidade de dados de Mucuri (códigos)")
+![Disponibilidade de dados de Mucuri (códigos)]([https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?ex=66c1faa1&is=66c0a921&hm=45ae909b2fd4f455af64690213f37c2db7bafe6bf2d394aaba2f413bad27b4ae&=&format=webp&quality=lossless&width=1440&height=553) "Disponibilidade de dados de Mucuri (códigos)")
 
 ###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus códigos).
 <br>
 
-![Disponibilidade de dados de Mucuri (nomes)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394 "Disponibilidade de dados de Mucuri (nomes)")
+![Disponibilidade de dados de Mucuri (nomes)]([https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?ex=66c1faa1&is=66c0a921&hm=ac79de0c70a1bf55e313eece7b2b93a20d593088fb00558cfad3df0787ad8e7a&=&format=webp&quality=lossless&width=1440&height=553) "Disponibilidade de dados de Mucuri (nomes)")
 
 ###### Disponibilidade de dados de cada estação de coleta de "Mucuri" (exibindo seus nomes).
