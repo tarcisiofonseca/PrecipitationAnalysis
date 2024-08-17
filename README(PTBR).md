@@ -61,7 +61,7 @@ Coloque todas as imagens na mesma pasta.
 No momento, é possível obter uma imagem raster que exibe as estações de coleta de cada um dos municípios selecionados sobre a imagem GeoTIFF.
 <br>
 
-![Estações de coleta da Bahia]((https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?ex=66c1faa6&is=66c0a926&hm=178f4fc2072508d79f2797cb4bdd63f691a76642a301760d4244459761480756&=&format=webp&quality=lossless&width=562&height=582) "Estações de coleta da Bahia")
+![Estações de coleta da Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?ex=66c1faa6&is=66c0a926&hm=178f4fc2072508d79f2797cb4bdd63f691a76642a301760d4244459761480756&=&format=webp&quality=lossless&width=562&height=582)
 
 ###### Todas as estações da Bahia. A imagem GeoTIFF usada é a mesma presente na sessão "Uso".
 <br>
