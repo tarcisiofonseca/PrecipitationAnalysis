@@ -38,7 +38,7 @@ conda install geopandas
 ## Usage
 Firstly, you need a GeoTIFF image so the data can be extracted. Images of that type may be obtained from [ClimateSERV](https://climateserv.servirglobal.net/map). 
 
-![Rainfall image](https://cdn.discordapp.com/attachments/345357344978501642/1034642130485911562/z.jpg? "Rainfall image")
+![Rainfall image](https://cdn.discordapp.com/attachments/345357344978501642/1034642130485911562/z.jpg?ex=66c1f952&is=66c0a7d2&hm=964628c9d987b72dfc8fe7be7fb173ce10ae8a300a8f5193f2549bf94cb3d36d&? "Rainfall image")
 
 ###### Rainfall GeoTIFF image obtained via ClimateSERV, from UCSB CHIRPS database. 
 
@@ -61,16 +61,16 @@ Then, place all GeoTIFF images in the same folder.
 By now, you can get a raster image displaying the data stations from the selected cities and the GeoTIFF image used.
 <br>
 
-![Data stations of Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?width=412&height=427 "Data stations of Bahia")
+![Data stations of Bahia](https://media.discordapp.net/attachments/345357344978501642/1034643557128077423/bahia.png?ex=66c1faa6&is=66c0a926&hm=178f4fc2072508d79f2797cb4bdd63f691a76642a301760d4244459761480756&=&format=webp&quality=lossless&width=562&height=582 "Data stations of Bahia")
 
 ###### All data stations from the state of Bahia. The GeoTIFF image used was the same shown on the "Usage" section.
 <br>
 
-![Mucuri data availability (codes)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?width=1025&height=394 "Mucuri data availability (codes)")
+![Mucuri data availability (codes)](https://media.discordapp.net/attachments/345357344978501642/1034643536739582002/newplot_2.png?ex=66c1faa1&is=66c0a921&hm=45ae909b2fd4f455af64690213f37c2db7bafe6bf2d394aaba2f413bad27b4ae&=&format=webp&quality=lossless&width=1440&height=553 "Mucuri data availability (codes)")
 
 ###### Availability of each data station from "Mucuri" (displaying their codes).
 <br>
 
-![Mucuri data availability (names)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?width=1025&height=394 "Mucuri data availability (names)")
+![Mucuri data availability (names)](https://media.discordapp.net/attachments/345357344978501642/1034643536399847504/newplot.png?ex=66c1faa1&is=66c0a921&hm=ac79de0c70a1bf55e313eece7b2b93a20d593088fb00558cfad3df0787ad8e7a&=&format=webp&quality=lossless&width=1440&height=553 "Mucuri data availability (names)")
 
 ###### Availability of each data station from "Mucuri" (displaying their names).
